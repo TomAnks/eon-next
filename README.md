@@ -1,6 +1,6 @@
 # Eon Next
 
-This is a custom component for Home Assistant which integrates with the Eon Next API and gets all the meter readings from your accounts.
+This is a custom component for Home Assistant which integrates with the Eon Next API and retrieves all the meter readings from your accounts.
 
 A sensor will be created for each meter showing:
 
